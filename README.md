@@ -1,2 +1,1 @@
-# magicwheel
- 
+mvn spring-boot:run -Dspringboot.run.arguments=--logging.level.org.springframework=TRACE,--com.freimanvs.magicwheel.aspects.LogAspect=TRACE
